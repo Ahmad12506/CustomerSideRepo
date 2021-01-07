@@ -4,7 +4,7 @@
   "parameters": {
       "factoryName": {
             "type": "string",
-            "defaultValue": "ny1datafactory",
+            "defaultValue": "nydatafactory",
             "metadata": {
                 "description": "The name can contain only letters, numbers and hyphens. The first and last characters must be a letter or number. Spaces are not allowed."
                 }
