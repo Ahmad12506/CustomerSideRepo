@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "factoryName": {
-            "value": "nydhagyactory"
+            "value": "nydhagyactory1"
         },
         "storageAccountName": {
             "value": "storeyteacc"
