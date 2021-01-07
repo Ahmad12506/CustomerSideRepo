@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "nydatafactory"
+        },
+        "storageAccountName": {
+            "value": "storageacc"
+        },
+        "location": {
+            "value": "eastus"
+        },
+        "yourdb": {
+            "value": "samplesde"
+        },
+        "yourserver": {
+            "value": "serveiiedy"
+        },
+        "serverlogin": {
+            "value": "assad"
+        },
+        "serverpassword": {
+            "value": "admin@1234"
+        },
+        "publicSASURI": {
+            "value": "https://storag6o62wodqgdj2k.blob.core.windows.net/?sv=2019-12-12&ss=bfqt&srt=sco&sp=rwdlacupx&se=2021-01-06T21:44:10Z&st=2021-01-06T13:44:10Z&spr=https,http&sig=HA4MzpN71%2BxOoI29jAG8sI2q62XgCcjtB%2BpUG9Xyo4Q%3D"
+        }
+    }
+}
