@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "factoryName": {
-            "value": "nydatafactory"
+            "value": "nydhagyactory"
         },
         "storageAccountName": {
-            "value": "storageacc"
+            "value": "storeyteacc"
         },
         "location": {
             "value": "eastus"
         },
         "yourdb": {
-            "value": "samplesde"
+            "value": "sampleabsdfr"
         },
         "yourserver": {
-            "value": "serveiiedy"
+            "value": "sampleservtyui"
         },
         "serverlogin": {
-            "value": "assad"
+            "value": "ahmad12506"
         },
         "serverpassword": {
-            "value": "admin@1234"
+            "value": "Ahmadasad@12506"
         },
         "publicSASURI": {
             "value": "https://storag6o62wodqgdj2k.blob.core.windows.net/?sv=2019-12-12&ss=bfqt&srt=sco&sp=rwdlacupx&se=2021-01-06T21:44:10Z&st=2021-01-06T13:44:10Z&spr=https,http&sig=HA4MzpN71%2BxOoI29jAG8sI2q62XgCcjtB%2BpUG9Xyo4Q%3D"
