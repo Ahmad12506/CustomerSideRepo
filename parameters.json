@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "factoryName": {
-            "value": "nydatafahtyeb"
+            "value": "nydwnebhtyeb"
         },
         "storageAccountName": {
-            "value": "storasdmfas"
+            "value": "hjerdmfas"
         },
         "location": {
             "value": "eastus"
         },
         "yourdb": {
-            "value": "sampleabsdfr"
+            "value": "sabdesdfr"
         },
         "yourserver": {
-            "value": "sampleservtyui"
+            "value": "samebnatyui"
         },
         "serverlogin": {
             "value": "ahmad12506"
