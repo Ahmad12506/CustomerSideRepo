@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "factoryName": {
-            "value": "nydhagyactory01"
+            "value": "nydatafahtyeb"
         },
         "storageAccountName": {
-            "value": "storeyteacc01"
+            "value": "storasdmfas"
         },
         "location": {
             "value": "eastus"
