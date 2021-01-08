@@ -4,14 +4,14 @@
   "parameters": {
       "factoryName": {
             "type": "string",
-            "defaultValue": "nydatafactory",
+            "defaultValue": "nydatafactory09",
             "metadata": {
                 "description": "The name can contain only letters, numbers and hyphens. The first and last characters must be a letter or number. Spaces are not allowed."
                 }
         },
         "storageAccountName": {
             "type": "string",
-            "defaultValue": "storageacc",
+            "defaultValue": "storageacc09",
             "metadata": {
             "description": "The field can contain only lowercase letters and numbers. Name must be between 3 and 24 characters."
             }
